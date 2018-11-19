@@ -1,0 +1,29 @@
+Body{
+    text-align: center;
+    background: url("https://wallpapercave.com/wp/uoyx3kz.jpg");
+}
+h1{
+    font-family: 'Patua One', cursive;
+    font-size:60px;
+}
+h2{
+    font-family: 'Rubik', sans-serif;
+    font-size:30px;
+}
+h3{
+    font-family: 'Roboto Mono', monospace;
+    font-size:30px;
+}
+h4{
+    font-family: 'Cinzel', serif;
+    font-size:30px;
+}
+p{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size:30px;
+}
+img{
+    width:800px;
+    
+}
+
